@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="test.re" type="Reason file" />
+    </extensionMap>
+  </component>
+</application>
